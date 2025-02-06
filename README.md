@@ -1,6 +1,6 @@
 # SurveyDublinDeclaration
 
-Data and code to replicate "A High-Powered Study Confirming the Misleading Nature of the Dublin Declaration"
+Data and code to replicate "A High-Powered Study Confirming the Misleading Nature of the Dublin Declaration", Espinosa et al. (2025), Environmental Science & Policy.
 
 # Content
 
